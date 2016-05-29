@@ -1,0 +1,9 @@
+c:\users\nestor\documents\visual studio 2013\Projects\AI Final\AI Final\bin\Debug\AI Final.exe.config
+c:\users\nestor\documents\visual studio 2013\Projects\AI Final\AI Final\bin\Debug\AI Final.exe
+c:\users\nestor\documents\visual studio 2013\Projects\AI Final\AI Final\bin\Debug\AI Final.pdb
+c:\users\nestor\documents\visual studio 2013\Projects\AI Final\AI Final\obj\Debug\AI Final.csprojResolveAssemblyReference.cache
+c:\users\nestor\documents\visual studio 2013\Projects\AI Final\AI Final\obj\Debug\AI_Final.Form1.resources
+c:\users\nestor\documents\visual studio 2013\Projects\AI Final\AI Final\obj\Debug\AI_Final.Properties.Resources.resources
+c:\users\nestor\documents\visual studio 2013\Projects\AI Final\AI Final\obj\Debug\AI Final.csproj.GenerateResource.Cache
+c:\users\nestor\documents\visual studio 2013\Projects\AI Final\AI Final\obj\Debug\AI Final.exe
+c:\users\nestor\documents\visual studio 2013\Projects\AI Final\AI Final\obj\Debug\AI Final.pdb
